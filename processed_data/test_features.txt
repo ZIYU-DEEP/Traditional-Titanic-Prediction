@@ -1,0 +1,1 @@
+Sex,Fare,Cabin,FamilySize,IsAlone,Pclass_1,Pclass_2,Pclass_3,Embarked_C,Embarked_Q,Embarked_S,Age_0,Age_1,Age_2,Age_3,Age_4,Title_MISC,Title_Master,Title_Miss,Title_Mr,Title_Mrs
